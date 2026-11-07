@@ -28,3 +28,6 @@
 ## 연락처
 (08510) 서울시 금천구 디지털로9길 99, 803호 (가산동 스타밸리)
 T 070.4213.4756 · E yoo3ho3@bigtreesoft.co.kr · www.bigtreesoft.co.kr
+
+## 이어서 작업하기
+결정사항·코드 지도·수정 방법은 [CLAUDE.md](CLAUDE.md), 전체 프로젝트 목록은 [IUX 프로젝트 목록](https://github.com/handgoldking1234/iux-app/blob/main/docs/PROJECTS.md)에 있습니다.
